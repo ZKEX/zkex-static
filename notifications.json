@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "message": "[09/29] White screen & faucet bug fixed.",
+        "show": true
+    },
+    {
+        "id": 2,
+        "message": "[10/08] test msg.",
+        "show": false
+    }
+]
