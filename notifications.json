@@ -1,12 +1,12 @@
 [
     {
+        "id": 2,
+        "message": "[10/15] Faucet is not functional. Please try again later.",
+        "show": false
+    },
+    {
         "id": 1,
         "message": "[09/29] White screen & faucet bug fixed.",
         "show": true
-    },
-    {
-        "id": 2,
-        "message": "[10/14] test msg.",
-        "show": false
     }
 ]
