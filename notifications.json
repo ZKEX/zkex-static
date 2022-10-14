@@ -2,7 +2,7 @@
     {
         "id": 2,
         "message": "[10/15] Faucet is not functional. Please try again later.",
-        "show": false
+        "show": true
     },
     {
         "id": 1,
