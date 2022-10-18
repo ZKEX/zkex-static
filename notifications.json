@@ -1,7 +1,12 @@
 [
     {
+        "id": 4,
+        "message": "[10/18][Updates] An investment portfolio feature is added.",
+        "show": true
+    },
+    {
         "id": 3,
-        "message": "[10/15] Faucet is working now.",
+        "message": "[10/15][Bug fixed] Faucet is working now.",
         "show": true
     },
     {
