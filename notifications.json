@@ -1,5 +1,10 @@
 [
     {
+        "id": 5,
+        "message": "[10/18][Bug] Faucet is not functional. Please try again later.",
+        "show": true
+    },    
+    {
         "id": 4,
         "message": "[10/18][Updates] An investment portfolio feature is added.",
         "show": true
@@ -7,7 +12,7 @@
     {
         "id": 3,
         "message": "[10/15][Bug fixed] Faucet is working now.",
-        "show": true
+        "show": false
     },
     {
         "id": 2,
