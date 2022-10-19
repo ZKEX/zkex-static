@@ -1,5 +1,10 @@
 [
     {
+        "id": 8,
+        "message": "test msg",
+        "show": false
+    }, 
+    {
         "id": 7,
         "message": "[10/19][Faucet] You may claim one kind of token every 5 min.",
         "show": false
