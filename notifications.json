@@ -1,13 +1,23 @@
 [
     {
+        "id": 7,
+        "message": "[10/19][Faucet] You may claim one kind of token every 5 min.",
+        "show": false
+    },  
+    {
+        "id": 6,
+        "message": "[10/19][Bug fixed] User portfolio is updated.",
+        "show": false
+    },  
+    {
         "id": 5,
         "message": "[10/18][Bug] Faucet is not functional. Please try again later.",
-        "show": true
+        "show": false
     },    
     {
         "id": 4,
         "message": "[10/18][Updates] An investment portfolio feature is added.",
-        "show": true
+        "show": false
     },
     {
         "id": 3,
