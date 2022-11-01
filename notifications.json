@@ -1,4 +1,9 @@
-[ 
+[
+    {
+        "id": 8,
+        "message": "[10/31][Updates] ZKEX is back online.",
+        "show": true
+    },
     {
         "id": 7,
         "message": "[10/19][Faucet] You may claim one kind of token every 5 min.",
